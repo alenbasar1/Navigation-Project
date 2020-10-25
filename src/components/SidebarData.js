@@ -25,7 +25,7 @@ export const SidebarData = [
   {
     title: 'Contact',
     path: '/contact',
-    icon: <IoIcons.IoMdPeople />,
+    icon: <IoIcons.IoMdContact />,
     cName: 'nav-text'
   }
 ];
